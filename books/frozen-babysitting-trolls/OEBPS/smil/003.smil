@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="14269ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Disney -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="14269ms" clipEnd="15119ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Frozen -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="15119ms" clipEnd="16599ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- BabySitting -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="16599ms" clipEnd="17329ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- the -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="17329ms" clipEnd="17439ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Troll -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="17439ms" clipEnd="17799ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Tots -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="17799ms" clipEnd="18949ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Written -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="18949ms" clipEnd="19269ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- by -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="19269ms" clipEnd="19469ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Brittany -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="19469ms" clipEnd="19899ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Candau -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="19899ms" clipEnd="21379ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="21379ms" clipEnd="22019ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- by -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="22019ms" clipEnd="22159ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- the -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="22159ms" clipEnd="22249ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Disney -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="22249ms" clipEnd="22639ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="22639ms" clipEnd="23289ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Art -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="23289ms" clipEnd="23469ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- Team -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="23469ms" clipEnd="23879ms" src="../audio/9781484728901.m4a"/>
+    </par>
+    <par id="id17g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="23879ms" clipEnd="24704ms" src="../audio/9781484728901.m4a"/>
+    </par>
+  </body>
+</smil>

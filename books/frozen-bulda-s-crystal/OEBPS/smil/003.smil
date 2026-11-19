@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="16195ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Bulda's -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="16195ms" clipEnd="16735ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Crystal -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="16735ms" clipEnd="17855ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Written -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="17855ms" clipEnd="18205ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- by -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="18205ms" clipEnd="18505ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Apple -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="18505ms" clipEnd="18895ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Jordan -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="18895ms" clipEnd="19865ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="19865ms" clipEnd="20505ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- by -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="20505ms" clipEnd="20745ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- the -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="20745ms" clipEnd="20835ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Disney -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="20835ms" clipEnd="21305ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Storybook -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="21305ms" clipEnd="21985ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Art -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="21985ms" clipEnd="22265ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Team -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="22265ms" clipEnd="22575ms" src="../audio/9781484777718.m4a"/>
+		</par>
+		<par id="id13g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="22575ms" clipEnd="23455ms" src="../audio/9781484777718.m4a"/>
+		</par>
+	</body>
+</smil>

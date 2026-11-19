@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id43g">
+			<!--  -->
+			<text src="../008.xhtml#empty"/>
+			<audio clipBegin="39541ms" clipEnd="40376ms" src="../audio/9781484757024.m4a"/>
+		</par>
+		<par id="id43">
+			<!-- And -->
+			<text src="../008.xhtml#w43"/>
+			<audio clipBegin="40376ms" clipEnd="40626ms" src="../audio/9781484757024.m4a"/>
+		</par>
+		<par id="id44">
+			<!-- Elsa -->
+			<text src="../008.xhtml#w44"/>
+			<audio clipBegin="40626ms" clipEnd="41316ms" src="../audio/9781484757024.m4a"/>
+		</par>
+		<par id="id45">
+			<!-- always -->
+			<text src="../008.xhtml#w45"/>
+			<audio clipBegin="41316ms" clipEnd="41886ms" src="../audio/9781484757024.m4a"/>
+		</par>
+		<par id="id46">
+			<!-- shares -->
+			<text src="../008.xhtml#w46"/>
+			<audio clipBegin="41886ms" clipEnd="42436ms" src="../audio/9781484757024.m4a"/>
+		</par>
+		<par id="id47">
+			<!-- her -->
+			<text src="../008.xhtml#w47"/>
+			<audio clipBegin="42436ms" clipEnd="42656ms" src="../audio/9781484757024.m4a"/>
+		</par>
+		<par id="id48">
+			<!-- chocolates -->
+			<text src="../008.xhtml#w48"/>
+			<audio clipBegin="42656ms" clipEnd="43866ms" src="../audio/9781484757024.m4a"/>
+		</par>
+		<par id="id49">
+			<!-- Yummy -->
+			<text src="../008.xhtml#w49"/>
+			<audio clipBegin="43866ms" clipEnd="44500ms" src="../audio/9781484757024.m4a"/>
+		</par>
+	</body>
+</smil>

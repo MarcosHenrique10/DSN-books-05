@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="13027ms" src="../audio/9781484732304.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Anna's -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="13027ms" clipEnd="13447ms" src="../audio/9781484732304.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Birthday -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="13447ms" clipEnd="13907ms" src="../audio/9781484732304.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Surprise -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="13907ms" clipEnd="15097ms" src="../audio/9781484732304.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="15097ms" clipEnd="15677ms" src="../audio/9781484732304.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="15677ms" clipEnd="15887ms" src="../audio/9781484732304.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Jessica -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="15887ms" clipEnd="16397ms" src="../audio/9781484732304.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Julius -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="16397ms" clipEnd="17127ms" src="../audio/9781484732304.m4a"/>
+    </par>
+    <par id="id7g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="17127ms" clipEnd="18160ms" src="../audio/9781484732304.m4a"/>
+    </par>
+  </body>
+</smil>

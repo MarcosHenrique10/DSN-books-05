@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id144g">
+      <!--  -->
+      <text src="../031.xhtml#empty"/>
+      <audio clipBegin="116855ms" clipEnd="117140ms" src="../audio/9781423197195.m4a"/>
+    </par>
+    <par id="id144">
+      <!-- Sisters -->
+      <text src="../031.xhtml#w144"/>
+      <audio clipBegin="117140ms" clipEnd="117950ms" src="../audio/9781423197195.m4a"/>
+    </par>
+    <par id="id145">
+      <!-- TOGETHER -->
+      <text src="../031.xhtml#w145"/>
+      <audio clipBegin="117950ms" clipEnd="119450ms" src="../audio/9781423197195.m4a"/>
+    </par>
+    <par id="id146">
+      <!-- Elsa -->
+      <text src="../031.xhtml#w146"/>
+      <audio clipBegin="119450ms" clipEnd="120100ms" src="../audio/9781423197195.m4a"/>
+    </par>
+    <par id="id147">
+      <!-- Anna -->
+      <text src="../031.xhtml#w147"/>
+      <audio clipBegin="120100ms" clipEnd="120580ms" src="../audio/9781423197195.m4a"/>
+    </par>
+    <par id="id148">
+      <!-- and -->
+      <text src="../031.xhtml#w148"/>
+      <audio clipBegin="120580ms" clipEnd="120910ms" src="../audio/9781423197195.m4a"/>
+    </par>
+    <par id="id149">
+      <!-- Olaf -->
+      <text src="../031.xhtml#w149"/>
+      <audio clipBegin="120910ms" clipEnd="121410ms" src="../audio/9781423197195.m4a"/>
+    </par>
+    <par id="id149g">
+      <!--  -->
+      <text src="../031.xhtml#empty"/>
+      <audio clipBegin="121410ms" clipEnd="122350ms" src="../audio/9781423197195.m4a"/>
+    </par>
+  </body>
+</smil>

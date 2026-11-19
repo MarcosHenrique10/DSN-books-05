@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id71g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="62760ms" clipEnd="63620ms" src="../audio/9781423197195.m4a"/>
+    </par>
+    <par id="id71">
+      <!-- Elsa -->
+      <text src="../014.xhtml#w71"/>
+      <audio clipBegin="63620ms" clipEnd="64120ms" src="../audio/9781423197195.m4a"/>
+    </par>
+    <par id="id72">
+      <!-- has -->
+      <text src="../014.xhtml#w72"/>
+      <audio clipBegin="64120ms" clipEnd="64440ms" src="../audio/9781423197195.m4a"/>
+    </par>
+    <par id="id73">
+      <!-- a -->
+      <text src="../014.xhtml#w73"/>
+      <audio clipBegin="64440ms" clipEnd="64500ms" src="../audio/9781423197195.m4a"/>
+    </par>
+    <par id="id74">
+      <!-- palace -->
+      <text src="../014.xhtml#w74"/>
+      <audio clipBegin="64500ms" clipEnd="65340ms" src="../audio/9781423197195.m4a"/>
+    </par>
+    <par id="id74g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="65340ms" clipEnd="65705ms" src="../audio/9781423197195.m4a"/>
+    </par>
+  </body>
+</smil>
