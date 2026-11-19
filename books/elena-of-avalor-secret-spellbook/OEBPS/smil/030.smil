@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id529g">
+			<!--  -->
+			<text src="../030.xhtml#empty"/>
+			<audio clipBegin="240950ms" clipEnd="241770ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id529">
+			<!-- Fiero's -->
+			<text src="../030.xhtml#w529"/>
+			<audio clipBegin="241770ms" clipEnd="242280ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id530">
+			<!-- own -->
+			<text src="../030.xhtml#w530"/>
+			<audio clipBegin="242280ms" clipEnd="242600ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id531">
+			<!-- curse -->
+			<text src="../030.xhtml#w531"/>
+			<audio clipBegin="242600ms" clipEnd="242960ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id532">
+			<!-- bounces -->
+			<text src="../030.xhtml#w532"/>
+			<audio clipBegin="242960ms" clipEnd="243400ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id533">
+			<!-- back -->
+			<text src="../030.xhtml#w533"/>
+			<audio clipBegin="243400ms" clipEnd="243690ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id534">
+			<!-- at -->
+			<text src="../030.xhtml#w534"/>
+			<audio clipBegin="243690ms" clipEnd="243780ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id535">
+			<!-- him -->
+			<text src="../030.xhtml#w535"/>
+			<audio clipBegin="243780ms" clipEnd="244350ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id536">
+			<!-- turning -->
+			<text src="../030.xhtml#w536"/>
+			<audio clipBegin="244350ms" clipEnd="244780ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id537">
+			<!-- him -->
+			<text src="../030.xhtml#w537"/>
+			<audio clipBegin="244780ms" clipEnd="245180ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id538">
+			<!-- into -->
+			<text src="../030.xhtml#w538"/>
+			<audio clipBegin="245180ms" clipEnd="245600ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id539">
+			<!-- a -->
+			<text src="../030.xhtml#w539"/>
+			<audio clipBegin="245600ms" clipEnd="245690ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id540">
+			<!-- statue -->
+			<text src="../030.xhtml#w540"/>
+			<audio clipBegin="245690ms" clipEnd="246390ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id540g">
+			<!--  -->
+			<text src="../030.xhtml#empty1"/>
+			<audio clipBegin="246390ms" clipEnd="246810ms" src="../audio/9781484748541.m4a"/>
+		</par>
+	</body>
+</smil>

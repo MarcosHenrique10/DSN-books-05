@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id629g">
+			<!--  -->
+			<text src="../034.xhtml#empty"/>
+			<audio clipBegin="284085ms" clipEnd="284910ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id629">
+			<!-- Then -->
+			<text src="../034.xhtml#w629"/>
+			<audio clipBegin="284910ms" clipEnd="285240ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id630">
+			<!-- the -->
+			<text src="../034.xhtml#w630"/>
+			<audio clipBegin="285240ms" clipEnd="285330ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id631">
+			<!-- new -->
+			<text src="../034.xhtml#w631"/>
+			<audio clipBegin="285330ms" clipEnd="285830ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id632">
+			<!-- royal -->
+			<text src="../034.xhtml#w632"/>
+			<audio clipBegin="285830ms" clipEnd="286250ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id633">
+			<!-- wizard -->
+			<text src="../034.xhtml#w633"/>
+			<audio clipBegin="286250ms" clipEnd="286920ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id634">
+			<!-- treats -->
+			<text src="../034.xhtml#w634"/>
+			<audio clipBegin="286920ms" clipEnd="287350ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id635">
+			<!-- everyone -->
+			<text src="../034.xhtml#w635"/>
+			<audio clipBegin="287350ms" clipEnd="287860ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id636">
+			<!-- to -->
+			<text src="../034.xhtml#w636"/>
+			<audio clipBegin="287860ms" clipEnd="288020ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id637">
+			<!-- a -->
+			<text src="../034.xhtml#w637"/>
+			<audio clipBegin="288020ms" clipEnd="288180ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id638">
+			<!-- magical -->
+			<text src="../034.xhtml#w638"/>
+			<audio clipBegin="288180ms" clipEnd="288850ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id639">
+			<!-- fireworks -->
+			<text src="../034.xhtml#w639"/>
+			<audio clipBegin="288850ms" clipEnd="289570ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id640">
+			<!-- show -->
+			<text src="../034.xhtml#w640"/>
+			<audio clipBegin="289570ms" clipEnd="290990ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id640g">
+			<!--  -->
+			<text src="../034.xhtml#empty1"/>
+			<audio clipBegin="290990ms" clipEnd="303995ms" src="../audio/9781484748541.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id65g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="51840ms" clipEnd="52735ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id65">
+      <!-- Sometimes -->
+      <text src="../014.xhtml#w65"/>
+      <audio clipBegin="52735ms" clipEnd="53745ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id66">
+      <!-- the -->
+      <text src="../014.xhtml#w66"/>
+      <audio clipBegin="53745ms" clipEnd="53855ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id67">
+      <!-- feast -->
+      <text src="../014.xhtml#w67"/>
+      <audio clipBegin="53855ms" clipEnd="54395ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id68">
+      <!-- was -->
+      <text src="../014.xhtml#w68"/>
+      <audio clipBegin="54395ms" clipEnd="54645ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id69">
+      <!-- a -->
+      <text src="../014.xhtml#w69"/>
+      <audio clipBegin="54645ms" clipEnd="54728ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id70">
+      <!-- game -->
+      <text src="../014.xhtml#w70"/>
+      <audio clipBegin="54728ms" clipEnd="55135ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id70g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="55135ms" clipEnd="55374ms" src="../audio/9781484726624.m4a"/>
+    </par>
+  </body>
+</smil>

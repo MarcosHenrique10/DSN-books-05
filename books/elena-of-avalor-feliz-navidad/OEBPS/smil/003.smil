@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="12136ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Feliz -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="12136ms" clipEnd="12756ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Navidad -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="12756ms" clipEnd="13896ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- a -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="13896ms" clipEnd="13966ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- royal -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="13966ms" clipEnd="14546ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Christmas -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="14546ms" clipEnd="15236ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id5g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="15236ms" clipEnd="16046ms" src="../audio/9781484748558.m4a"/>
+		</par>
+	</body>
+</smil>

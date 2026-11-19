@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id759g">
+			<!--  -->
+			<text src="../028.xhtml#empty"/>
+			<audio clipBegin="345106ms" clipEnd="345916ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id759">
+			<!-- Elena -->
+			<text src="../028.xhtml#w759"/>
+			<audio clipBegin="345916ms" clipEnd="346436ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id760">
+			<!-- sings -->
+			<text src="../028.xhtml#w760"/>
+			<audio clipBegin="346436ms" clipEnd="346876ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id761">
+			<!-- a -->
+			<text src="../028.xhtml#w761"/>
+			<audio clipBegin="346876ms" clipEnd="346956ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id762">
+			<!-- song -->
+			<text src="../028.xhtml#w762"/>
+			<audio clipBegin="346956ms" clipEnd="347576ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id762g">
+			<!--  -->
+			<text src="../028.xhtml#empty1"/>
+			<audio clipBegin="347576ms" clipEnd="347986ms" src="../audio/9781484748558.m4a"/>
+		</par>
+	</body>
+</smil>

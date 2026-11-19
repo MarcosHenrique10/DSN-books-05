@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id248g">
+      <!--  -->
+      <text src="../058.xhtml#empty"/>
+      <audio clipBegin="176720ms" clipEnd="177635ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id248">
+      <!-- Winston -->
+      <text src="../058.xhtml#w248"/>
+      <audio clipBegin="177635ms" clipEnd="178165ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id249">
+      <!-- loved -->
+      <text src="../058.xhtml#w249"/>
+      <audio clipBegin="178165ms" clipEnd="178795ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id250">
+      <!-- his -->
+      <text src="../058.xhtml#w250"/>
+      <audio clipBegin="178795ms" clipEnd="179055ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id251">
+      <!-- family -->
+      <text src="../058.xhtml#w251"/>
+      <audio clipBegin="179055ms" clipEnd="179525ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id251g">
+      <!--  -->
+      <text src="../058.xhtml#empty"/>
+      <audio clipBegin="179525ms" clipEnd="180213ms" src="../audio/9781484726624.m4a"/>
+    </par>
+  </body>
+</smil>

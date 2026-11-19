@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id195g">
+      <!--  -->
+      <text src="../044.xhtml#empty"/>
+      <audio clipBegin="140205ms" clipEnd="141095ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id195">
+      <!-- Wait -->
+      <text src="../044.xhtml#w195"/>
+      <audio clipBegin="141095ms" clipEnd="141635ms" src="../audio/9781484726624.m4a"/>
+    </par>
+  </body>
+</smil>

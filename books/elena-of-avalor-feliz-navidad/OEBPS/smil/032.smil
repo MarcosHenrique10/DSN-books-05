@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id828g">
+			<!--  -->
+			<text src="../032.xhtml#empty"/>
+			<audio clipBegin="377071ms" clipEnd="377866ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id828">
+			<!-- Elena -->
+			<text src="../032.xhtml#w828"/>
+			<audio clipBegin="377866ms" clipEnd="378446ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id829">
+			<!-- leads -->
+			<text src="../032.xhtml#w829"/>
+			<audio clipBegin="378446ms" clipEnd="378746ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id830">
+			<!-- the -->
+			<text src="../032.xhtml#w830"/>
+			<audio clipBegin="378746ms" clipEnd="378866ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id831">
+			<!-- parranda -->
+			<text src="../032.xhtml#w831"/>
+			<audio clipBegin="378866ms" clipEnd="379636ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id832">
+			<!-- back -->
+			<text src="../032.xhtml#w832"/>
+			<audio clipBegin="379636ms" clipEnd="379806ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id833">
+			<!-- to -->
+			<text src="../032.xhtml#w833"/>
+			<audio clipBegin="379806ms" clipEnd="379986ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id834">
+			<!-- Avalor -->
+			<text src="../032.xhtml#w834"/>
+			<audio clipBegin="379986ms" clipEnd="380566ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id835">
+			<!-- Palace -->
+			<text src="../032.xhtml#w835"/>
+			<audio clipBegin="380566ms" clipEnd="381266ms" src="../audio/9781484748558.m4a"/>
+		</par>
+		<par id="id835g">
+			<!--  -->
+			<text src="../032.xhtml#empty1"/>
+			<audio clipBegin="381266ms" clipEnd="381671ms" src="../audio/9781484748558.m4a"/>
+		</par>
+	</body>
+</smil>

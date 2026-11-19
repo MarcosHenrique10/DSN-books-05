@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id225g">
+      <!--  -->
+      <text src="../052.xhtml#empty"/>
+      <audio clipBegin="161430ms" clipEnd="162355ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id225">
+      <!-- to -->
+      <text src="../052.xhtml#w225"/>
+      <audio clipBegin="162355ms" clipEnd="162475ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id226">
+      <!-- find -->
+      <text src="../052.xhtml#w226"/>
+      <audio clipBegin="162475ms" clipEnd="163005ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id227">
+      <!-- their -->
+      <text src="../052.xhtml#w227"/>
+      <audio clipBegin="163005ms" clipEnd="163245ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id228">
+      <!-- friend -->
+      <text src="../052.xhtml#w228"/>
+      <audio clipBegin="163245ms" clipEnd="163865ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id228g">
+      <!--  -->
+      <text src="../052.xhtml#empty"/>
+      <audio clipBegin="163865ms" clipEnd="164450ms" src="../audio/9781484726624.m4a"/>
+    </par>
+  </body>
+</smil>

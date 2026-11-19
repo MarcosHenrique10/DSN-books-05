@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id43g">
+			<!--  -->
+			<text src="../005.xhtml#empty"/>
+			<audio clipBegin="34100ms" clipEnd="34510ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id43">
+			<!-- Elena -->
+			<text src="../005.xhtml#w43"/>
+			<audio clipBegin="34510ms" clipEnd="35030ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id44">
+			<!-- has -->
+			<text src="../005.xhtml#w44"/>
+			<audio clipBegin="35030ms" clipEnd="35260ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id45">
+			<!-- invited -->
+			<text src="../005.xhtml#w45"/>
+			<audio clipBegin="35260ms" clipEnd="35800ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id46">
+			<!-- guests -->
+			<text src="../005.xhtml#w46"/>
+			<audio clipBegin="35800ms" clipEnd="36140ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id47">
+			<!-- from -->
+			<text src="../005.xhtml#w47"/>
+			<audio clipBegin="36140ms" clipEnd="36470ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id48">
+			<!-- all -->
+			<text src="../005.xhtml#w48"/>
+			<audio clipBegin="36470ms" clipEnd="36790ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id49">
+			<!-- over -->
+			<text src="../005.xhtml#w49"/>
+			<audio clipBegin="36790ms" clipEnd="37020ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id50">
+			<!-- Avalor -->
+			<text src="../005.xhtml#w50"/>
+			<audio clipBegin="37020ms" clipEnd="37700ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id51">
+			<!-- to -->
+			<text src="../005.xhtml#w51"/>
+			<audio clipBegin="37700ms" clipEnd="37930ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id52">
+			<!-- attend -->
+			<text src="../005.xhtml#w52"/>
+			<audio clipBegin="37930ms" clipEnd="38370ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id53">
+			<!-- the -->
+			<text src="../005.xhtml#w53"/>
+			<audio clipBegin="38370ms" clipEnd="38440ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id54">
+			<!-- ceremony -->
+			<text src="../005.xhtml#w54"/>
+			<audio clipBegin="38440ms" clipEnd="39150ms" src="../audio/9781484748541.m4a"/>
+		</par>
+		<par id="id54g">
+			<!--  -->
+			<text src="../005.xhtml#empty1"/>
+			<audio clipBegin="39150ms" clipEnd="39995ms" src="../audio/9781484748541.m4a"/>
+		</par>
+	</body>
+</smil>

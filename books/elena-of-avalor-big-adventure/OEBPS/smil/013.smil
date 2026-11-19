@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id357g">
+			<!--  -->
+			<text src="../013.xhtml#empty"/>
+			<audio clipBegin="157486ms" clipEnd="157906ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id357">
+			<!-- What -->
+			<text src="../013.xhtml#w357"/>
+			<audio clipBegin="157906ms" clipEnd="158396ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id358">
+			<!-- is -->
+			<text src="../013.xhtml#w358"/>
+			<audio clipBegin="158396ms" clipEnd="158756ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id359">
+			<!-- that -->
+			<text src="../013.xhtml#w359"/>
+			<audio clipBegin="158756ms" clipEnd="159436ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id360">
+			<!-- cries -->
+			<text src="../013.xhtml#w360"/>
+			<audio clipBegin="159436ms" clipEnd="159816ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id361">
+			<!-- Naomi -->
+			<text src="../013.xhtml#w361"/>
+			<audio clipBegin="159816ms" clipEnd="160696ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id362">
+			<!-- A -->
+			<text src="../013.xhtml#w362"/>
+			<audio clipBegin="160696ms" clipEnd="160816ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id363">
+			<!-- duende -->
+			<text src="../013.xhtml#w363"/>
+			<audio clipBegin="160816ms" clipEnd="161626ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id364">
+			<!-- Professor -->
+			<text src="../013.xhtml#w364"/>
+			<audio clipBegin="161626ms" clipEnd="162076ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id365">
+			<!-- Mendoza -->
+			<text src="../013.xhtml#w365"/>
+			<audio clipBegin="162076ms" clipEnd="162496ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id366">
+			<!-- exclaims -->
+			<text src="../013.xhtml#w366"/>
+			<audio clipBegin="162496ms" clipEnd="163456ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id367">
+			<!-- Duendes -->
+			<text src="../013.xhtml#w367"/>
+			<audio clipBegin="163456ms" clipEnd="164086ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id368">
+			<!-- are -->
+			<text src="../013.xhtml#w368"/>
+			<audio clipBegin="164086ms" clipEnd="164336ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id369">
+			<!-- mischievous -->
+			<text src="../013.xhtml#w369"/>
+			<audio clipBegin="164336ms" clipEnd="164936ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id370">
+			<!-- elves -->
+			<text src="../013.xhtml#w370"/>
+			<audio clipBegin="164936ms" clipEnd="165306ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id371">
+			<!-- from -->
+			<text src="../013.xhtml#w371"/>
+			<audio clipBegin="165306ms" clipEnd="165466ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id372">
+			<!-- a -->
+			<text src="../013.xhtml#w372"/>
+			<audio clipBegin="165466ms" clipEnd="165526ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id373">
+			<!-- magical -->
+			<text src="../013.xhtml#w373"/>
+			<audio clipBegin="165526ms" clipEnd="166096ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id374">
+			<!-- world -->
+			<text src="../013.xhtml#w374"/>
+			<audio clipBegin="166096ms" clipEnd="166616ms" src="../audio/9781368001977.m4a"/>
+		</par>
+		<par id="id374g">
+			<!--  -->
+			<text src="../013.xhtml#empty1"/>
+			<audio clipBegin="166616ms" clipEnd="167446ms" src="../audio/9781368001977.m4a"/>
+		</par>
+	</body>
+</smil>

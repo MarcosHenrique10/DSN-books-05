@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="11145ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Feast -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="11145ms" clipEnd="12505ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="12505ms" clipEnd="12955ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- by -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="12955ms" clipEnd="13195ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Liz -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="13195ms" clipEnd="13535ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Marsham -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="13535ms" clipEnd="14355ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- and -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="14355ms" clipEnd="14515ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Megan -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="14515ms" clipEnd="14875ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Roth -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="14875ms" clipEnd="15285ms" src="../audio/9781484726624.m4a"/>
+    </par>
+    <par id="id8g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="15285ms" clipEnd="16375ms" src="../audio/9781484726624.m4a"/>
+    </par>
+  </body>
+</smil>
