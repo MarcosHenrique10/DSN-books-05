@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id214g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="128479ms" clipEnd="129269ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id214">
+			<!-- Kristoff -->
+			<text src="../024.xhtml#w214"/>
+			<audio clipBegin="129269ms" clipEnd="130169ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id215">
+			<!-- Anna -->
+			<text src="../024.xhtml#w215"/>
+			<audio clipBegin="130169ms" clipEnd="130529ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id216">
+			<!-- and -->
+			<text src="../024.xhtml#w216"/>
+			<audio clipBegin="130529ms" clipEnd="130679ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id217">
+			<!-- Elsa -->
+			<text src="../024.xhtml#w217"/>
+			<audio clipBegin="130679ms" clipEnd="131289ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id218">
+			<!-- climb -->
+			<text src="../024.xhtml#w218"/>
+			<audio clipBegin="131289ms" clipEnd="131759ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id219">
+			<!-- the -->
+			<text src="../024.xhtml#w219"/>
+			<audio clipBegin="131759ms" clipEnd="131879ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id220">
+			<!-- stairs -->
+			<text src="../024.xhtml#w220"/>
+			<audio clipBegin="131879ms" clipEnd="132959ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id221">
+			<!-- They -->
+			<text src="../024.xhtml#w221"/>
+			<audio clipBegin="132959ms" clipEnd="133099ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id222">
+			<!-- see -->
+			<text src="../024.xhtml#w222"/>
+			<audio clipBegin="133099ms" clipEnd="133439ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id223">
+			<!-- the -->
+			<text src="../024.xhtml#w223"/>
+			<audio clipBegin="133439ms" clipEnd="133559ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id224">
+			<!-- trees -->
+			<text src="../024.xhtml#w224"/>
+			<audio clipBegin="133559ms" clipEnd="133999ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id225">
+			<!-- shake -->
+			<text src="../024.xhtml#w225"/>
+			<audio clipBegin="133999ms" clipEnd="134529ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id225g">
+			<!--  -->
+			<text src="../024.xhtml#empty1"/>
+			<audio clipBegin="134529ms" clipEnd="135069ms" src="../audio/9781484786888.m4a"/>
+		</par>
+	</body>
+</smil>

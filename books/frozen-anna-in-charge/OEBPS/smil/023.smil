@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id276g">
+			<!--  -->
+			<text src="../023.xhtml#empty"/>
+			<audio clipBegin="142830ms" clipEnd="143415ms" src="../audio/9781484786895.m4a"/>
+		</par>
+		<par id="id276">
+			<!-- Anna -->
+			<text src="../023.xhtml#w276"/>
+			<audio clipBegin="143415ms" clipEnd="143785ms" src="../audio/9781484786895.m4a"/>
+		</par>
+		<par id="id277">
+			<!-- rows -->
+			<text src="../023.xhtml#w277"/>
+			<audio clipBegin="143785ms" clipEnd="144195ms" src="../audio/9781484786895.m4a"/>
+		</par>
+		<par id="id278">
+			<!-- hard -->
+			<text src="../023.xhtml#w278"/>
+			<audio clipBegin="144195ms" clipEnd="145285ms" src="../audio/9781484786895.m4a"/>
+		</par>
+		<par id="id279">
+			<!-- Her -->
+			<text src="../023.xhtml#w279"/>
+			<audio clipBegin="145285ms" clipEnd="145455ms" src="../audio/9781484786895.m4a"/>
+		</par>
+		<par id="id280">
+			<!-- team -->
+			<text src="../023.xhtml#w280"/>
+			<audio clipBegin="145455ms" clipEnd="145875ms" src="../audio/9781484786895.m4a"/>
+		</par>
+		<par id="id281">
+			<!-- comes -->
+			<text src="../023.xhtml#w281"/>
+			<audio clipBegin="145875ms" clipEnd="146305ms" src="../audio/9781484786895.m4a"/>
+		</par>
+		<par id="id282">
+			<!-- in -->
+			<text src="../023.xhtml#w282"/>
+			<audio clipBegin="146305ms" clipEnd="146425ms" src="../audio/9781484786895.m4a"/>
+		</par>
+		<par id="id283">
+			<!-- second -->
+			<text src="../023.xhtml#w283"/>
+			<audio clipBegin="146425ms" clipEnd="146975ms" src="../audio/9781484786895.m4a"/>
+		</par>
+		<par id="id284">
+			<!-- place -->
+			<text src="../023.xhtml#w284"/>
+			<audio clipBegin="146975ms" clipEnd="147575ms" src="../audio/9781484786895.m4a"/>
+		</par>
+		<par id="id284g">
+			<!--  -->
+			<text src="../023.xhtml#empty1"/>
+			<audio clipBegin="147575ms" clipEnd="148430ms" src="../audio/9781484786895.m4a"/>
+		</par>
+	</body>
+</smil>

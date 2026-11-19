@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1a">
+      <!---->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="200ms" clipEnd="16225ms" src="../audio/9781484703212.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- by -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="16225ms" clipEnd="16425ms" src="../audio/9781484703212.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Barbara -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16425ms" clipEnd="16945ms" src="../audio/9781484703212.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Jean -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="16945ms" clipEnd="17395ms" src="../audio/9781484703212.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Hicks -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="17395ms" clipEnd="18605ms" src="../audio/9781484703212.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="18605ms" clipEnd="19285ms" src="../audio/9781484703212.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="19285ms" clipEnd="19545ms" src="../audio/9781484703212.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Brittney -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="19545ms" clipEnd="19925ms" src="../audio/9781484703212.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Lee -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="19925ms" clipEnd="20465ms" src="../audio/9781484703212.m4a"/>
+    </par>
+    <par id="id8a">
+      <!---->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="20465ms" clipEnd="21310ms" src="../audio/9781484703212.m4a"/>
+    </par>
+  </body>
+</smil>

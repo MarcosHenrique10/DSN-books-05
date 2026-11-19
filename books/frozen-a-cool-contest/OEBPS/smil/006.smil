@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id27g">
+			<!--  -->
+			<text src="../006.xhtml#empty"/>
+			<audio clipBegin="28869ms" clipEnd="29734ms" src="../audio/9781484786871.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- Anna -->
+			<text src="../006.xhtml#w27"/>
+			<audio clipBegin="29734ms" clipEnd="30124ms" src="../audio/9781484786871.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- and -->
+			<text src="../006.xhtml#w28"/>
+			<audio clipBegin="30124ms" clipEnd="30304ms" src="../audio/9781484786871.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- Olaf -->
+			<text src="../006.xhtml#w29"/>
+			<audio clipBegin="30304ms" clipEnd="30984ms" src="../audio/9781484786871.m4a"/>
+		</par>
+		<par id="id30">
+			<!-- are -->
+			<text src="../006.xhtml#w30"/>
+			<audio clipBegin="30984ms" clipEnd="31204ms" src="../audio/9781484786871.m4a"/>
+		</par>
+		<par id="id31">
+			<!-- a -->
+			<text src="../006.xhtml#w31"/>
+			<audio clipBegin="31204ms" clipEnd="31254ms" src="../audio/9781484786871.m4a"/>
+		</par>
+		<par id="id32">
+			<!-- team -->
+			<text src="../006.xhtml#w32"/>
+			<audio clipBegin="31254ms" clipEnd="32894ms" src="../audio/9781484786871.m4a"/>
+		</par>
+		<par id="id33">
+			<!-- They -->
+			<text src="../006.xhtml#w33"/>
+			<audio clipBegin="32894ms" clipEnd="33054ms" src="../audio/9781484786871.m4a"/>
+		</par>
+		<par id="id34">
+			<!-- find -->
+			<text src="../006.xhtml#w34"/>
+			<audio clipBegin="33054ms" clipEnd="33614ms" src="../audio/9781484786871.m4a"/>
+		</par>
+		<par id="id35">
+			<!-- their -->
+			<text src="../006.xhtml#w35"/>
+			<audio clipBegin="33614ms" clipEnd="33844ms" src="../audio/9781484786871.m4a"/>
+		</par>
+		<par id="id36">
+			<!-- ice -->
+			<text src="../006.xhtml#w36"/>
+			<audio clipBegin="33844ms" clipEnd="34394ms" src="../audio/9781484786871.m4a"/>
+		</par>
+		<par id="id36g">
+			<!--  -->
+			<text src="../006.xhtml#empty"/>
+			<audio clipBegin="34394ms" clipEnd="34954ms" src="../audio/9781484786871.m4a"/>
+		</par>
+	</body>
+</smil>

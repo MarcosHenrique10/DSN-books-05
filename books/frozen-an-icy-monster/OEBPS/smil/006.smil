@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id27g">
+			<!--  -->
+			<text src="../006.xhtml#empty"/>
+			<audio clipBegin="27464ms" clipEnd="28309ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- The -->
+			<text src="../006.xhtml#w27"/>
+			<audio clipBegin="28309ms" clipEnd="28389ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- sisters -->
+			<text src="../006.xhtml#w28"/>
+			<audio clipBegin="28389ms" clipEnd="29029ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- decide -->
+			<text src="../006.xhtml#w29"/>
+			<audio clipBegin="29029ms" clipEnd="29639ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id30">
+			<!-- to -->
+			<text src="../006.xhtml#w30"/>
+			<audio clipBegin="29639ms" clipEnd="29739ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id31">
+			<!-- have -->
+			<text src="../006.xhtml#w31"/>
+			<audio clipBegin="29739ms" clipEnd="30029ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id32">
+			<!-- a -->
+			<text src="../006.xhtml#w32"/>
+			<audio clipBegin="30029ms" clipEnd="30109ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id33">
+			<!-- bike -->
+			<text src="../006.xhtml#w33"/>
+			<audio clipBegin="30109ms" clipEnd="30549ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id34">
+			<!-- race -->
+			<text src="../006.xhtml#w34"/>
+			<audio clipBegin="30549ms" clipEnd="31039ms" src="../audio/9781484786888.m4a"/>
+		</par>
+		<par id="id34g">
+			<!--  -->
+			<text src="../006.xhtml#empty1"/>
+			<audio clipBegin="31039ms" clipEnd="31589ms" src="../audio/9781484786888.m4a"/>
+		</par>
+	</body>
+</smil>
