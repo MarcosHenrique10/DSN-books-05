@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id140g">
+			<!--  -->
+			<text src="../022.xhtml#empty"/>
+			<audio clipBegin="79162ms" clipEnd="80062ms" src="../audio/9781484725894.m4a"/>
+		</par>
+		<par id="id140">
+			<!-- When -->
+			<text src="../022.xhtml#w140"/>
+			<audio clipBegin="80062ms" clipEnd="80252ms" src="../audio/9781484725894.m4a"/>
+		</par>
+		<par id="id141">
+			<!-- you -->
+			<text src="../022.xhtml#w141"/>
+			<audio clipBegin="80252ms" clipEnd="80342ms" src="../audio/9781484725894.m4a"/>
+		</par>
+		<par id="id142">
+			<!-- discover -->
+			<text src="../022.xhtml#w142"/>
+			<audio clipBegin="80342ms" clipEnd="80822ms" src="../audio/9781484725894.m4a"/>
+		</par>
+		<par id="id143">
+			<!-- your -->
+			<text src="../022.xhtml#w143"/>
+			<audio clipBegin="80822ms" clipEnd="81012ms" src="../audio/9781484725894.m4a"/>
+		</par>
+		<par id="id144">
+			<!-- Destiny -->
+			<text src="../022.xhtml#w144"/>
+			<audio clipBegin="81012ms" clipEnd="81642ms" src="../audio/9781484725894.m4a"/>
+		</par>
+		<par id="id144g">
+			<!--  -->
+			<text src="../022.xhtml#empty"/>
+			<audio clipBegin="81642ms" clipEnd="82257ms" src="../audio/9781484725894.m4a"/>
+		</par>
+	</body>
+</smil>

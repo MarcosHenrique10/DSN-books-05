@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id390g">
+      <!--  -->
+      <text src="../015.xhtml#empty"/>
+      <audio clipBegin="211832ms" clipEnd="222535ms" src="../audio/9781423197294.m4a"/>
+    </par>
+    <par id="id390">
+      <!-- By -->
+      <text src="../015.xhtml#w390"/>
+      <audio clipBegin="222535ms" clipEnd="222735ms" src="../audio/9781423197294.m4a"/>
+    </par>
+    <par id="id391">
+      <!-- Lisa -->
+      <text src="../015.xhtml#w391"/>
+      <audio clipBegin="222735ms" clipEnd="223105ms" src="../audio/9781423197294.m4a"/>
+    </par>
+    <par id="id392">
+      <!-- Marsoli -->
+      <text src="../015.xhtml#w392"/>
+      <audio clipBegin="223105ms" clipEnd="224665ms" src="../audio/9781423197294.m4a"/>
+    </par>
+    <par id="id393">
+      <!-- Illustrated -->
+      <text src="../015.xhtml#w393"/>
+      <audio clipBegin="224665ms" clipEnd="225275ms" src="../audio/9781423197294.m4a"/>
+    </par>
+    <par id="id394">
+      <!-- by -->
+      <text src="../015.xhtml#w394"/>
+      <audio clipBegin="225275ms" clipEnd="225465ms" src="../audio/9781423197294.m4a"/>
+    </par>
+    <par id="id395">
+      <!-- Joey -->
+      <text src="../015.xhtml#w395"/>
+      <audio clipBegin="225465ms" clipEnd="225795ms" src="../audio/9781423197294.m4a"/>
+    </par>
+    <par id="id396">
+      <!-- Chou -->
+      <text src="../015.xhtml#w396"/>
+      <audio clipBegin="225795ms" clipEnd="226345ms" src="../audio/9781423197294.m4a"/>
+    </par>
+    <par id="id396g">
+      <!--  -->
+      <text src="../015.xhtml#empty"/>
+      <audio clipBegin="226345ms" clipEnd="227325ms" src="../audio/9781423197294.m4a"/>
+    </par>
+  </body>
+</smil>

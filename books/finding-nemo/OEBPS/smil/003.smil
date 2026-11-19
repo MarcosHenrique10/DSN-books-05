@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="17353ms" src="../audio/9781484735022.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Finding -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="17353ms" clipEnd="17823ms" src="../audio/9781484735022.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Nemo -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="17823ms" clipEnd="18953ms" src="../audio/9781484735022.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="18953ms" clipEnd="19493ms" src="../audio/9781484735022.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- by -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="19493ms" clipEnd="19703ms" src="../audio/9781484735022.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Kathryn -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="19703ms" clipEnd="20183ms" src="../audio/9781484735022.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Collins -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="20183ms" clipEnd="20733ms" src="../audio/9781484735022.m4a"/>
+		</par>
+		<par id="id6g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="20733ms" clipEnd="21728ms" src="../audio/9781484735022.m4a"/>
+		</par>
+	</body>
+</smil>

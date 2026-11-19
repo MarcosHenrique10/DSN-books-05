@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id257a">
+      <!---->
+      <text src="../058.xhtml#empty"/>
+      <audio clipBegin="187090ms" clipEnd="188095ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id257">
+      <!-- a -->
+      <text src="../058.xhtml#w257"/>
+      <audio clipBegin="188095ms" clipEnd="188215ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id258">
+      <!-- vampire -->
+      <text src="../058.xhtml#w258"/>
+      <audio clipBegin="188215ms" clipEnd="188905ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id259">
+      <!-- cat -->
+      <text src="../058.xhtml#w259"/>
+      <audio clipBegin="188905ms" clipEnd="189445ms" src="../audio/9781423191940.m4a"/>
+    </par>
+  </body>
+</smil>

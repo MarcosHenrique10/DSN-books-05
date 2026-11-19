@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id249a">
+      <!---->
+      <text src="../056.xhtml#empty"/>
+      <audio clipBegin="180633ms" clipEnd="181595ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id249">
+      <!-- New -->
+      <text src="../056.xhtml#w249"/>
+      <audio clipBegin="181595ms" clipEnd="181995ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id250">
+      <!-- Holland -->
+      <text src="../056.xhtml#w250"/>
+      <audio clipBegin="181995ms" clipEnd="182795ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id251">
+      <!-- was -->
+      <text src="../056.xhtml#w251"/>
+      <audio clipBegin="182795ms" clipEnd="183015ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id252">
+      <!-- terrorized -->
+      <text src="../056.xhtml#w252"/>
+      <audio clipBegin="183015ms" clipEnd="184565ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id253">
+      <!-- by -->
+      <text src="../056.xhtml#w253"/>
+      <audio clipBegin="184565ms" clipEnd="184815ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id254">
+      <!-- a -->
+      <text src="../056.xhtml#w254"/>
+      <audio clipBegin="184815ms" clipEnd="184945ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id255">
+      <!-- were -->
+      <text src="../056.xhtml#w255"/>
+      <audio clipBegin="184945ms" clipEnd="185831ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id256">
+      <!-- rat -->
+      <text src="../056.xhtml#w256"/>
+      <audio clipBegin="185831ms" clipEnd="186375ms" src="../audio/9781423191940.m4a"/>
+    </par>
+  </body>
+</smil>

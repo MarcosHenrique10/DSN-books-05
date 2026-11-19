@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id160a">
+      <!---->
+      <text src="../038.xhtml#empty"/>
+      <audio clipBegin="124177ms" clipEnd="125164ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id160">
+      <!-- A -->
+      <text src="../038.xhtml#w160"/>
+      <audio clipBegin="125164ms" clipEnd="125331ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id161">
+      <!-- lightning -->
+      <text src="../038.xhtml#w161"/>
+      <audio clipBegin="125331ms" clipEnd="125815ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id162">
+      <!-- storm -->
+      <text src="../038.xhtml#w162"/>
+      <audio clipBegin="125815ms" clipEnd="126255ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id163">
+      <!-- was -->
+      <text src="../038.xhtml#w163"/>
+      <audio clipBegin="126255ms" clipEnd="126445ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id164">
+      <!-- raging -->
+      <text src="../038.xhtml#w164"/>
+      <audio clipBegin="126445ms" clipEnd="127095ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id165">
+      <!-- And -->
+      <text src="../038.xhtml#w165"/>
+      <audio clipBegin="127095ms" clipEnd="127255ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id166">
+      <!-- it -->
+      <text src="../038.xhtml#w166"/>
+      <audio clipBegin="127255ms" clipEnd="127485ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id167">
+      <!-- crashed -->
+      <text src="../038.xhtml#w167"/>
+      <audio clipBegin="127485ms" clipEnd="128085ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id168">
+      <!-- down -->
+      <text src="../038.xhtml#w168"/>
+      <audio clipBegin="128085ms" clipEnd="128525ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id169">
+      <!-- on -->
+      <text src="../038.xhtml#w169"/>
+      <audio clipBegin="128525ms" clipEnd="128775ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id170">
+      <!-- Sparky -->
+      <text src="../038.xhtml#w170"/>
+      <audio clipBegin="128775ms" clipEnd="129475ms" src="../audio/9781423191940.m4a"/>
+    </par>
+  </body>
+</smil>

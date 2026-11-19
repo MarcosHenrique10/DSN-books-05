@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id99g">
+			<!--  -->
+			<text src="../011.xhtml#empty"/>
+			<audio clipBegin="57605ms" clipEnd="58120ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id99">
+			<!-- Dory -->
+			<text src="../011.xhtml#w99"/>
+			<audio clipBegin="58120ms" clipEnd="58440ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id100">
+			<!-- gets -->
+			<text src="../011.xhtml#w100"/>
+			<audio clipBegin="58440ms" clipEnd="58680ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id101">
+			<!-- taken -->
+			<text src="../011.xhtml#w101"/>
+			<audio clipBegin="58680ms" clipEnd="59060ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id102">
+			<!-- to -->
+			<text src="../011.xhtml#w102"/>
+			<audio clipBegin="59060ms" clipEnd="59170ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id103">
+			<!-- the -->
+			<text src="../011.xhtml#w103"/>
+			<audio clipBegin="59170ms" clipEnd="59310ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id104">
+			<!-- Jewel -->
+			<text src="../011.xhtml#w104"/>
+			<audio clipBegin="59310ms" clipEnd="59840ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id105">
+			<!-- of -->
+			<text src="../011.xhtml#w105"/>
+			<audio clipBegin="59840ms" clipEnd="59950ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id106">
+			<!-- Morro -->
+			<text src="../011.xhtml#w106"/>
+			<audio clipBegin="59950ms" clipEnd="60410ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id107">
+			<!-- Bay -->
+			<text src="../011.xhtml#w107"/>
+			<audio clipBegin="60410ms" clipEnd="61300ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id108">
+			<!-- It -->
+			<text src="../011.xhtml#w108"/>
+			<audio clipBegin="61300ms" clipEnd="61440ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id109">
+			<!-- is -->
+			<text src="../011.xhtml#w109"/>
+			<audio clipBegin="61440ms" clipEnd="61580ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id110">
+			<!-- a -->
+			<text src="../011.xhtml#w110"/>
+			<audio clipBegin="61580ms" clipEnd="61970ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id111">
+			<!-- big -->
+			<text src="../011.xhtml#w111"/>
+			<audio clipBegin="61970ms" clipEnd="62230ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id112">
+			<!-- aquarium -->
+			<text src="../011.xhtml#w112"/>
+			<audio clipBegin="62230ms" clipEnd="62870ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id112g">
+			<!--  -->
+			<text src="../011.xhtml#empty1"/>
+			<audio clipBegin="62870ms" clipEnd="63750ms" src="../audio/9781484727010.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1b">
+      <!-- SPOKEN TITLE -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="14322ms" clipEnd="16309ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Written -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="16309ms" clipEnd="16775ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16775ms" clipEnd="16965ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Victoria -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="16965ms" clipEnd="17535ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Saxon -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="17535ms" clipEnd="19095ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="19095ms" clipEnd="19705ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="19705ms" clipEnd="19905ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Grace -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="19905ms" clipEnd="20335ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Lee -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="20335ms" clipEnd="20855ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Massimiliano -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="20855ms" clipEnd="21825ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Narciso -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="21825ms" clipEnd="22895ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- and -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="22895ms" clipEnd="23035ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Andrea -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="23035ms" clipEnd="23555ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Cagol -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="23555ms" clipEnd="24645ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Designed -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="24645ms" clipEnd="25115ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- by -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="25115ms" clipEnd="25275ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Tony -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="25275ms" clipEnd="25755ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- Fejeran -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="25755ms" clipEnd="26245ms" src="../audio/9781484703205.m4a"/>
+    </par>
+    <par id="id17g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="26245ms" clipEnd="27073ms" src="../audio/9781484703205.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id62g">
+			<!--  -->
+			<text src="../012.xhtml#empty"/>
+			<audio clipBegin="43583ms" clipEnd="43797ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id62">
+			<!-- Bailey -->
+			<text src="../012.xhtml#w62"/>
+			<audio clipBegin="43797ms" clipEnd="44247ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id63">
+			<!-- is -->
+			<text src="../012.xhtml#w63"/>
+			<audio clipBegin="44247ms" clipEnd="44407ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id64">
+			<!-- a -->
+			<text src="../012.xhtml#w64"/>
+			<audio clipBegin="44407ms" clipEnd="44477ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id65">
+			<!-- beluga -->
+			<text src="../012.xhtml#w65"/>
+			<audio clipBegin="44477ms" clipEnd="45077ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id66">
+			<!-- whale -->
+			<text src="../012.xhtml#w66"/>
+			<audio clipBegin="45077ms" clipEnd="46007ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id67">
+			<!-- He -->
+			<text src="../012.xhtml#w67"/>
+			<audio clipBegin="46007ms" clipEnd="46167ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id68">
+			<!-- is -->
+			<text src="../012.xhtml#w68"/>
+			<audio clipBegin="46167ms" clipEnd="46377ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id69">
+			<!-- white -->
+			<text src="../012.xhtml#w69"/>
+			<audio clipBegin="46377ms" clipEnd="46837ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id69g">
+			<!--  -->
+			<text src="../012.xhtml#empty1"/>
+			<audio clipBegin="46837ms" clipEnd="47697ms" src="../audio/9781484744482.m4a"/>
+		</par>
+	</body>
+</smil>

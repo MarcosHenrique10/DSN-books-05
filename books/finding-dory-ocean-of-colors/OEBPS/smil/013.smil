@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id70g">
+			<!--  -->
+			<text src="../013.xhtml#empty"/>
+			<audio clipBegin="47697ms" clipEnd="48557ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id70">
+			<!-- Destiny -->
+			<text src="../013.xhtml#w70"/>
+			<audio clipBegin="48557ms" clipEnd="49127ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id71">
+			<!-- is -->
+			<text src="../013.xhtml#w71"/>
+			<audio clipBegin="49127ms" clipEnd="49257ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id72">
+			<!-- a -->
+			<text src="../013.xhtml#w72"/>
+			<audio clipBegin="49257ms" clipEnd="49367ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id73">
+			<!-- whale -->
+			<text src="../013.xhtml#w73"/>
+			<audio clipBegin="49367ms" clipEnd="49697ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id74">
+			<!-- shark -->
+			<text src="../013.xhtml#w74"/>
+			<audio clipBegin="49697ms" clipEnd="50497ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id75">
+			<!-- She -->
+			<text src="../013.xhtml#w75"/>
+			<audio clipBegin="50497ms" clipEnd="50737ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id76">
+			<!-- has -->
+			<text src="../013.xhtml#w76"/>
+			<audio clipBegin="50737ms" clipEnd="50997ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id77">
+			<!-- white -->
+			<text src="../013.xhtml#w77"/>
+			<audio clipBegin="50997ms" clipEnd="51337ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id78">
+			<!-- spots -->
+			<text src="../013.xhtml#w78"/>
+			<audio clipBegin="51337ms" clipEnd="51937ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id78g">
+			<!--  -->
+			<text src="../013.xhtml#empty1"/>
+			<audio clipBegin="51937ms" clipEnd="52792ms" src="../audio/9781484744482.m4a"/>
+		</par>
+	</body>
+</smil>

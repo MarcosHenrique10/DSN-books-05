@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id20g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="26548ms" clipEnd="27435ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- WELCOME -->
+      <text src="../004.xhtml#w20"/>
+      <audio clipBegin="27435ms" clipEnd="27965ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- TO -->
+      <text src="../004.xhtml#w21"/>
+      <audio clipBegin="27965ms" clipEnd="28225ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- NEW -->
+      <text src="../004.xhtml#w22"/>
+      <audio clipBegin="28225ms" clipEnd="28465ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- HOLLAND -->
+      <text src="../004.xhtml#w23"/>
+      <audio clipBegin="28465ms" clipEnd="29755ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- with -->
+      <text src="../004.xhtml#w24"/>
+      <audio clipBegin="29755ms" clipEnd="29895ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- its -->
+      <text src="../004.xhtml#w25"/>
+      <audio clipBegin="29895ms" clipEnd="30065ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- eclectic -->
+      <text src="../004.xhtml#w26"/>
+      <audio clipBegin="30065ms" clipEnd="30725ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- cast -->
+      <text src="../004.xhtml#w27"/>
+      <audio clipBegin="30725ms" clipEnd="31175ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- of -->
+      <text src="../004.xhtml#w28"/>
+      <audio clipBegin="31175ms" clipEnd="31605ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- misfits -->
+      <text src="../004.xhtml#w29"/>
+      <audio clipBegin="31605ms" clipEnd="32645ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id30">
+      <!-- and -->
+      <text src="../004.xhtml#w30"/>
+      <audio clipBegin="32645ms" clipEnd="33025ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- monstrous -->
+      <text src="../004.xhtml#w31"/>
+      <audio clipBegin="33025ms" clipEnd="33745ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id32">
+      <!-- creatures -->
+      <text src="../004.xhtml#w32"/>
+      <audio clipBegin="33745ms" clipEnd="34635ms" src="../audio/9781423189329.m4a"/>
+    </par>
+    <par id="id32g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="34635ms" clipEnd="35145ms" src="../audio/9781423189329.m4a"/>
+    </par>
+  </body>
+</smil>

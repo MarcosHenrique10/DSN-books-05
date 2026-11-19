@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id154g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="95862ms" clipEnd="96737ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id154">
+			<!-- Dory -->
+			<text src="../024.xhtml#w154"/>
+			<audio clipBegin="96737ms" clipEnd="97167ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id155">
+			<!-- loves -->
+			<text src="../024.xhtml#w155"/>
+			<audio clipBegin="97167ms" clipEnd="97797ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id156">
+			<!-- her -->
+			<text src="../024.xhtml#w156"/>
+			<audio clipBegin="97797ms" clipEnd="97937ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id157">
+			<!-- colorful -->
+			<text src="../024.xhtml#w157"/>
+			<audio clipBegin="97937ms" clipEnd="98677ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id158">
+			<!-- family -->
+			<text src="../024.xhtml#w158"/>
+			<audio clipBegin="98677ms" clipEnd="99557ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id159">
+			<!-- and -->
+			<text src="../024.xhtml#w159"/>
+			<audio clipBegin="99557ms" clipEnd="99817ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id160">
+			<!-- friends -->
+			<text src="../024.xhtml#w160"/>
+			<audio clipBegin="99817ms" clipEnd="101297ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id160g">
+			<!--  -->
+			<text src="../024.xhtml#empty1"/>
+			<audio clipBegin="101297ms" clipEnd="110031ms" src="../audio/9781484744482.m4a"/>
+		</par>
+	</body>
+</smil>

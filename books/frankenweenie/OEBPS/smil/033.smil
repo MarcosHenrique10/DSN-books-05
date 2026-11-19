@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id137">
+      <!-- He -->
+      <text src="../033.xhtml#w137"/>
+      <audio clipBegin="108725ms" clipEnd="108885ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id138">
+      <!-- ran -->
+      <text src="../033.xhtml#w138"/>
+      <audio clipBegin="108885ms" clipEnd="109635ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id139">
+      <!-- to -->
+      <text src="../033.xhtml#w139"/>
+      <audio clipBegin="109635ms" clipEnd="109805ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id140">
+      <!-- the -->
+      <text src="../033.xhtml#w140"/>
+      <audio clipBegin="109805ms" clipEnd="110175ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id141">
+      <!-- pet -->
+      <text src="../033.xhtml#w141"/>
+      <audio clipBegin="110175ms" clipEnd="110465ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id142">
+      <!-- cemetery -->
+      <text src="../033.xhtml#w142"/>
+      <audio clipBegin="110465ms" clipEnd="112015ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id143">
+      <!-- Dug -->
+      <text src="../033.xhtml#w143"/>
+      <audio clipBegin="112015ms" clipEnd="112315ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id144">
+      <!-- up -->
+      <text src="../033.xhtml#w144"/>
+      <audio clipBegin="112315ms" clipEnd="112546ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id145">
+      <!-- Sparky -->
+      <text src="../033.xhtml#w145"/>
+      <audio clipBegin="112546ms" clipEnd="113275ms" src="../audio/9781423191940.m4a"/>
+    </par>
+    <par id="id145g">
+      <!--  -->
+      <text src="../033.xhtml#empty"/>
+      <audio clipBegin="113275ms" clipEnd="113950ms" src="../audio/9781423191940.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id41">
+			<!-- Dory -->
+			<text src="../008.xhtml#w41"/>
+			<audio clipBegin="31017ms" clipEnd="31697ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id42">
+			<!-- swims -->
+			<text src="../008.xhtml#w42"/>
+			<audio clipBegin="31697ms" clipEnd="32377ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id43">
+			<!-- into -->
+			<text src="../008.xhtml#w43"/>
+			<audio clipBegin="32377ms" clipEnd="32587ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id44">
+			<!-- the -->
+			<text src="../008.xhtml#w44"/>
+			<audio clipBegin="32587ms" clipEnd="32867ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id45">
+			<!-- deep -->
+			<text src="../008.xhtml#w45"/>
+			<audio clipBegin="32867ms" clipEnd="33537ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id46">
+			<!-- dark -->
+			<text src="../008.xhtml#w46"/>
+			<audio clipBegin="33537ms" clipEnd="33877ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id47">
+			<!-- ocean -->
+			<text src="../008.xhtml#w47"/>
+			<audio clipBegin="33877ms" clipEnd="34377ms" src="../audio/9781484744482.m4a"/>
+		</par>
+		<par id="id47g">
+			<!--  -->
+			<text src="../008.xhtml#empty1"/>
+			<audio clipBegin="34377ms" clipEnd="34932ms" src="../audio/9781484744482.m4a"/>
+		</par>
+	</body>
+</smil>

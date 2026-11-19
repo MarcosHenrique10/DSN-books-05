@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id247g">
+			<!--  -->
+			<text src="../021.xhtml#empty"/>
+			<audio clipBegin="127985ms" clipEnd="128520ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id247">
+			<!-- Becky -->
+			<text src="../021.xhtml#w247"/>
+			<audio clipBegin="128520ms" clipEnd="128890ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id248">
+			<!-- helps -->
+			<text src="../021.xhtml#w248"/>
+			<audio clipBegin="128890ms" clipEnd="129350ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id249">
+			<!-- rescue -->
+			<text src="../021.xhtml#w249"/>
+			<audio clipBegin="129350ms" clipEnd="129870ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id250">
+			<!-- Nemo -->
+			<text src="../021.xhtml#w250"/>
+			<audio clipBegin="129870ms" clipEnd="130270ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id251">
+			<!-- and -->
+			<text src="../021.xhtml#w251"/>
+			<audio clipBegin="130270ms" clipEnd="130360ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id252">
+			<!-- Marlin -->
+			<text src="../021.xhtml#w252"/>
+			<audio clipBegin="130360ms" clipEnd="131480ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id253">
+			<!-- Dory -->
+			<text src="../021.xhtml#w253"/>
+			<audio clipBegin="131480ms" clipEnd="131880ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id254">
+			<!-- is -->
+			<text src="../021.xhtml#w254"/>
+			<audio clipBegin="131880ms" clipEnd="132020ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id255">
+			<!-- still -->
+			<text src="../021.xhtml#w255"/>
+			<audio clipBegin="132020ms" clipEnd="132580ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id256">
+			<!-- in -->
+			<text src="../021.xhtml#w256"/>
+			<audio clipBegin="132580ms" clipEnd="132650ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id257">
+			<!-- the -->
+			<text src="../021.xhtml#w257"/>
+			<audio clipBegin="132650ms" clipEnd="132720ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id258">
+			<!-- truck -->
+			<text src="../021.xhtml#w258"/>
+			<audio clipBegin="132720ms" clipEnd="133210ms" src="../audio/9781484727010.m4a"/>
+		</par>
+		<par id="id258g">
+			<!--  -->
+			<text src="../021.xhtml#empty1"/>
+			<audio clipBegin="133210ms" clipEnd="134115ms" src="../audio/9781484727010.m4a"/>
+		</par>
+	</body>
+</smil>

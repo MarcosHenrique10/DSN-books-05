@@ -1,0 +1,354 @@
+img{z-index:-1;}
+
+body {
+	width: 707px;
+	height: 1061px;
+	margin: 0;
+	border: none;
+}
+
+@font-face {
+	font-family:"Arial";
+	src: url(../fonts/Arial.ttf);
+}
+
+@font-face {
+	font-family:"CenturyOldStyleStdRegular";
+	src: url(../fonts/CenturyOldStyleStdRegular.otf);
+}
+
+@font-face {
+	font-family:"NeutrafaceTextBold";
+	src: url(../fonts/NeutrafaceTextBold.otf);
+}
+
+@font-face {
+	font-family:"NeutrafaceTextBook";
+	src: url(../fonts/NeutrafaceTextBook.otf);
+}
+
+
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 707px;
+	height: 1061px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+p.nonindent{
+	font-size: 48px;
+	line-height: 80px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	letter-spacing:1px;
+	font-family:"CenturyOldStyleStdRegular";
+}
+
+p.nonindentw{
+	font-size: 48px;
+	line-height: 80px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	letter-spacing:1px;
+	font-family:"CenturyOldStyleStdRegular";
+	color:white;
+}
+
+p.copy{
+	font-size: 13px;
+	line-height: 16px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 24px;
+	font-family:"CenturyOldStyleStdRegular";
+}
+
+p.author{
+	font-size: 28px;
+	line-height: 40px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CenturyOldStyleStdRegular";
+}
+
+
+p.logo{
+	font-size: 16px;
+	line-height: 16px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CenturyOldStyleStdRegular";
+}
+
+p.indent{
+	font-size: 15px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 770px;
+	left: 0px;
+	right: 0px;
+}
+div.page3_item1{
+	position: absolute;
+	top: 830px;
+	left: 0px;
+	right: 0px;
+}
+div.page3_item2{
+	position: absolute;
+	top: 974px;
+	left: 0px;
+	right: 0px;
+}
+div.page4_item1{
+	position: absolute;
+	top: 815px;
+	left: 109px;
+	right: 0px;
+width: 478px;height: 139px;}
+div.page5_item1{
+	position: absolute;
+	top: 815px;
+	left: 109px;
+	right: 0px;
+width: 460px;height: 135px;}
+div.page6_item1{
+	position: absolute;
+	top: 65px;
+	left: 110px;
+	right: 0px;
+width: 451px;height: 146px;}
+div.page7_item1{
+	position: absolute;
+	top: 460px;
+	left: 109px;
+	right: 0px;
+width: 388px;height: 140px;}
+div.page8_item1{
+	position: absolute;
+	top: 66px;
+	left: 108px;
+	right: 0px;
+width: 354px;height: 211px;}
+div.page9_item1{
+	position: absolute;
+	top: 65px;
+	left: 110px;
+	right: 0px;
+width: 491px;height: 138px;}
+div.page10_item1{
+	position: absolute;
+	top: 65px;
+	left: 109px;
+	right: 0px;
+width: 450px;height: 166px;}
+div.page12_item1{
+	position: absolute;
+	top: 65px;
+	left: 110px;
+	right: 0px;
+width: 566px;height: 141px;}
+div.page13_item1{
+	position: absolute;
+	top: 817px;
+	left: 109px;
+	right: 0px;
+width: 572px;height: 139px;}
+div.page14_item1{
+	position: absolute;
+	top: 817px;
+	left: 110px;
+	right: 0px;
+width: 481px;height: 138px;}
+div.page15_item1{
+	position: absolute;
+	top: 65px;
+	left: 110px;
+	right: 0px;
+width: 523px;height: 236px;}
+div.page16_item1{
+	position: absolute;
+	top: 817px;
+	left: 110px;
+	right: 0px;
+width: 521px;height: 160px;}
+div.page17_item1{
+	position: absolute;
+	top: 65px;
+	left: 108px;
+	right: 0px;
+width: 529px;height: 154px;}
+div.page18_item1{
+	position: absolute;
+	top: 817px;
+	left: 108px;
+	right: 0px;
+width: 435px;height: 143px;}
+div.page19_item1{
+	position: absolute;
+	top: 895px;
+	left: 107px;
+	right: 0px;
+}
+div.page20_item1{
+	position: absolute;
+	top: 65px;
+	left: 107px;
+	right: 0px;
+width: 484px;height: 223px;}
+div.page21_item1{
+	position: absolute;
+	top: 817px;
+	left: 108px;
+	right: 0px;
+width: 532px;height: 103px;}
+div.page22_item1{
+	position: absolute;
+	top: 817px;
+	left: 108px;
+	right: 0px;
+width: 567px;height: 169px;}
+div.page23_item1{
+	position: absolute;
+	top: 817px;
+	left: 108px;
+	right: 0px;
+width: 426px;height: 157px;}
+div.page24_item1{
+	position: absolute;
+	top: 817px;
+	left: 108px;
+	right: 0px;
+width: 552px;height: 140px;}
+div.page26_item1{
+	position: absolute;
+	top: 413px;
+	left: 39px;
+	right: 0px;
+width: 613px;height: 126px;}
+div.page26_item2{
+	position: absolute;
+	top: 577px;
+	left: 148px;
+	right: 0px;
+width: 507px;height: 57px;}
+div.page26_item3{
+	position: absolute;
+	top: 656px;
+	left: 148px;
+	right: 0px;
+width: 514px;height: 82px;}
+div.page26_item4{
+	position: absolute;
+	top: 750px;
+	left: 148px;
+	right: 0px;
+width: 524px;height: 77px;}
+div.page26_item5{
+	position: absolute;
+	top: 837px;
+	left: 148px;
+	right: 0px;
+width: 498px;height: 73px;}
+
+
+span.arial{
+	font-family:"Arial";
+}
+
+p.back{
+	font-size: 32px;
+	line-height: 40px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 3px;
+	word-spacing:1px;
+	font-family:"NeutrafaceTextBold";
+	color:white;
+}
+
+p.back1{
+	font-size: 22px;
+	line-height: 25px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+	font-family:"NeutrafaceTextBook";
+	color:white;
+}
+
+p.back2{
+	font-size: 25px;
+	line-height: 30px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 3px;
+	word-spacing:1px;
+	font-family:"NeutrafaceTextBold";
+	color:white;
+}
+
+p.back3{
+	font-size: 18px;
+	line-height: 22px;
+	text-align: left;
+	text-indent: -10px;
+	margin-top: 0px;
+	margin-left:10px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+	font-family:"NeutrafaceTextBook";
+	color:white;
+}
+
+.media-overlay-active
+{
+color:#f00 !important;
+}
